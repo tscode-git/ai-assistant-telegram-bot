@@ -203,7 +203,7 @@ ai-assistant-telegram-bot/
 ## 1. Клонирование проекта
 
 ```bash
-git clone https://github.com/username/ai-assistant-telegram-bot.git
+git clone https://github.com/tscode-git/ai-assistant-telegram-bot.git
 ```
 
 Переходим в папку:
